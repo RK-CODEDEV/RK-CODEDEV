@@ -5,11 +5,7 @@
 ## Tech Stack ✔️
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,js" /><br>
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=figma,opencv,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=selenium,codepen" />
+    <img src="https://skillicons.dev/icons?i=c" /><br>
   </a>
 </p>
 
