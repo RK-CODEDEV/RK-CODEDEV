@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Shankar</h1>
+<h1 align="center">Hey there, I'm Ranjith Kumar</h1>
 <h2 align="center">Aspiring MERN Stack Developer & Prompt Engineer</h2>
 <h3 align="center">Competitive Programmer 👨‍💻 | Front-end Web Developer 💻</h3>
 
